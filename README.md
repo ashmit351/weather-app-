@@ -1,1 +1,11 @@
-A simple and responsive weather application built using HTML, CSS, and JavaScript. This app allows users to search for any city and get real-time weather data including temperature, humidity, wind speed, and weather conditions. It fetches live data using the OpenWeatherMap API and dynamically updates the UI based on user input.
+
+# 🌦️ Weather App
+
+A clean and responsive **Weather Forecast App** built using HTML, CSS, and JavaScript. Users can search any city to get real-time weather updates using the OpenWeatherMap API.
+
+## 🔍 Features
+- 🌎 Search weather by city name
+- 🌡️ Displays temperature, humidity, wind speed
+- 🌤️ Dynamic weather icons
+- 🖥️ Responsive UI for desktop & mobile
+- 🔁 Uses OpenWeatherMap API
